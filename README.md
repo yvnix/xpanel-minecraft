@@ -2,12 +2,19 @@
 
 The project was created for the creators of minecraft servers.
 
+## Table of Contents
+
+- [Informations](#informations)
+- [Documentation](#documentation)
+- [Instalation](#instalation)
+
+
 
 ## Informations
 
 * Type: OpenSource
 * Support Language: Python
-* Licence: config/licence.txt
+* License: config/licence.txt
 * Author: Kacper Płaczek
 
 ## Documentation

@@ -14,7 +14,7 @@ The project was created for the creators of minecraft servers.
 
 * Type: OpenSource
 * Support Language: Python
-* License: <img src="https://opensource.org/sites/default/files/public/osi_keyhole_300X300_90ppi_0.png" height=35 /> OpenSource License
+* License: <img src="https://opensource.org/sites/default/files/public/osi_keyhole_300X300_90ppi_0.png" height=25 /> OpenSource License
 * Author: Kacper Płaczek
 
 ## Documentation

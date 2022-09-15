@@ -14,7 +14,7 @@ The project was created for the creators of minecraft servers.
 
 * Type: OpenSource
 * Support Language: Python
-* License: <img src="https://www.pinclipart.com/picdir/middle/1-12208_open-source-images-free-open-source-logo-png.png" height=5 /> OpenSource License
+* License: <img src="https://www.pinclipart.com/picdir/middle/1-12208_open-source-images-free-open-source-logo-png.png" height=15 /> OpenSource License
 * Author: Kacper Płaczek
 
 ## Documentation
